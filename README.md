@@ -6,7 +6,7 @@ I am a 26 year old full stack developer focused on javascript. I live in the Sea
 
 - [Linkedin](https://www.linkedin.com/in/sean-j-murray/)
 - [Twitter](https://twitter.com/seanjmurray1)
-- [Portfolio](https://www.seanjmurray.dev)
+- [Portfolio](https://www.seanmurray.dev)
 
 ### What I like
 
